@@ -1,0 +1,4 @@
+# Custom Data Ignore
+data/
+src/
+.env
